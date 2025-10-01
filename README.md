@@ -1,4 +1,51 @@
+👋 Hi there, I’m Shahariar Sadik
 
+🚀 A passionate Cloud & DevOps Engineer | Cyber Security Enthusiast | Web Developer | Software Engineering Learner from Bangladesh
+
+📧 Email Me: shahariarsadik20@gmail.com — For collaborations, projects, or just a tech talk!
+
+
+---
+
+🌟 What I’m working on:
+
+Cloud-native projects & DevOps automation
+
+Web development (front-end + back-end)
+
+Exploring cyber security & ethical hacking
+
+Building scalable software solutions
+
+
+🌱 Currently learning: Advanced Kubernetes, CI/CD, secure coding practices & system design.
+
+🤝 Open to collaborate on:
+
+Cloud & DevOps projects
+
+Cyber security research & tools
+
+Full-stack web development
+
+Innovative software engineering projects
+
+
+🛠 I can help with:
+
+Deployment & automation
+
+Securing apps & infrastructure
+
+Developing responsive websites
+
+Software design & optimization
+
+
+💬 Ask me about: Cloud, DevOps, Web Development, Cyber Security & Tech Support.
+📬 Reach me at: shahariarsadik20@gmail.com
+😄 Pronouns: Sadik
+⚡ Fun fact: I don’t just use tech — I live it, love it, and secure it! 🔐💻
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Sadik.Shahariar.02) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fsadik.shahariar.02%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExRGkweWU5VW1nMG93N09VRwEeQTKt-NBEr_Y_vQz4VNdIWnfAo0LW-CvgBbSv3ijBvskjc7qWXFTPkDTnhJc_aem_PdkKwdL8ChNt_qrc0LhVsg&h=AT2kVAQ6r_6fkaTu-G8ztLQQuLZHhcR3bMLmku5VIiIfOwUKQfz90EWhdpxbCRwk59SxMVcWSmtli9MwnY_i6uYgPv_xy_qGKK0HC-HjHqTzlX-dPRh1jTLmoClOrGUd3Edv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahariarsadik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahariarsadik20@gmail.com) 
 
