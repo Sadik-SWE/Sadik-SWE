@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Black Minimal Business Personal Profile Linkedin Banner" src="https://github.com/user-attachments/assets/920d6b7e-60dc-4ebe-bdd7-b9b0f8ff6ed0" />
 👋 Hi there, I’m Shahariar Sadik
 
 🚀 A passionate Cloud & DevOps Engineer | Cyber Security Enthusiast | Web Developer | Software Engineering Learner from Bangladesh
